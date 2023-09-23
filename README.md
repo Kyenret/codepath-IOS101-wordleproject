@@ -33,14 +33,10 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/69eb9419d64943e598875f2a2b71f28f-with-play.gif">
     </a>
 
-
-
-
-
-
 ## Notes
 
 Describe any challenges encountered while building the app.
+Being new to Swift, I struggled to follow and understand the provided code. I also struggled to understand the instructions for some exercises such as Exercises 2 and 5. Understanding closures and how to implement and use them was also difficult. Fortunately, I received sufficient help by attending office hours and using online resources.
 
 ## License
 
