@@ -34,6 +34,7 @@ The following **additional** features are implemented:
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 Being new to Swift, I struggled to follow and understand the provided code. I also struggled to understand the instructions for some exercises such as Exercises 2 and 5. Understanding closures and how to implement and use them was also difficult. Fortunately, I received sufficient help by attending office hours and using online resources.
 
 ## License
