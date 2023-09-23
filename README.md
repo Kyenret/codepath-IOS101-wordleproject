@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kyenret Yakubu Ayuba**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle** is an app that challenges players to guess a hidden five-letter word within six attempts, making it an engaging word puzzle game.
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
+- [x] Improve and customize the user interface by adding a launchscreen and app icon
 - [ ] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Kyenret Yakubu Ayuba]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
