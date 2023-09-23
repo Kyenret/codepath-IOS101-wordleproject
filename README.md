@@ -23,6 +23,7 @@ The following **additional** features are implemented:
 
 - [x] Set the correct background color depending on the style that is passed in
 - [x] Add more possible words to choose from
+- [x] Change the scale of the cell
 
 ## Video Walkthrough
 
