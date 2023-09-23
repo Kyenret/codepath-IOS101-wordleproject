@@ -2,7 +2,7 @@
 
 Submitted by: **Kyenret Yakubu Ayuba**
 
-**Wordle** is an app that challenges players to guess a hidden five-letter word within six attempts, making it an engaging word puzzle game.
+**Wordle** is an app that challenges players to guess a hidden and randomly selected five-letter word within six attempts, making it an engaging word puzzle game.
 
 Time spent: **10** hours spent in total
 
