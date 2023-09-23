@@ -21,7 +21,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Set the correct background color depending on the style that is passed in
+- [x] Add more possible words to choose from
 
 ## Video Walkthrough
 
